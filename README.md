@@ -23,7 +23,7 @@ The **Cartoonify Image Application** is a Python-based GUI tool that transforms 
 ### 1️⃣ Clone the Repository
 ```sh
 git clone https://github.com/your-repository/CARTOON.git
-cd cartoonify-image
+cd CARTOON
 ```
 
 ### 2️⃣ Install Required Dependencies
